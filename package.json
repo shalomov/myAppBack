@@ -1,0 +1,24 @@
+{
+  "name": "seq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0",
+    "sha": "^2.0.1",
+    "sha.js": "^2.4.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
